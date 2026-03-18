@@ -69,7 +69,7 @@ Lead Machine is **proprietary software** by [Envoya](https://envoya.ai).
 A valid license key is required to activate the software.
 Redistribution, reverse engineering, or resale is strictly prohibited.
 
-For licensing inquiries: **hello@envoya.ai**
+For licensing inquiries: **hello@envoya.tech**
 
 ---
 
@@ -77,7 +77,7 @@ For licensing inquiries: **hello@envoya.ai**
 
 - **Installation guide (macOS):** [INSTALL_MAC.md](./INSTALL_MAC.md)
 - **Issues:** [open a ticket](../../issues)
-- **Email:** hello@envoya.ai
+- **Email:** hello@envoya.tech
 
 ---
 

@@ -96,4 +96,4 @@ If it ever doesn't load:
 
 **If the page doesn't load:** Wait 30 seconds after the terminal window closes, then refresh.
 
-**Still stuck?** Email **hello@envoya.ai** with a screenshot of the error message and we'll sort it out.
+**Still stuck?** Email **hello@envoya.tech** with a screenshot of the error message and we'll sort it out.
